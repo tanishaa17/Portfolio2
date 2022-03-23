@@ -36,9 +36,6 @@
     - EXPERIENCE
     - PROJECTS 
     - Achievements <br />
-- SERVICES 
-    - TESTIMONIALS <br />
-- BLOG
 - CONTACTS 
 
 <br /><br />
